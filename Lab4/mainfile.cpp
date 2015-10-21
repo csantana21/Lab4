@@ -46,6 +46,7 @@ int main (int argc, char *argv[]){
 				cout << "The program has ended.";
 				break;
 			}
+			cout >> "what up cuz";
 	}
 
 }
