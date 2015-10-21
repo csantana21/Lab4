@@ -47,6 +47,7 @@ int main (int argc, char *argv[]){
 				break;
 			}
 			cout >> "what up cuz";
+			cout >> "hello";
 	}
 
 }
